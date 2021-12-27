@@ -1,0 +1,1 @@
+{"inputSize": 31, "encodersize": [50, 30, 5], "activationFunc": "relu", "tiedWeights": [0, 0, 0], "weightInitOpt": "truncated_normal", "weightStd": 0.1, "skipConnect": false, "activationFuncFinal": "linear"}
